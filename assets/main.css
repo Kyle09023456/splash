@@ -142,8 +142,8 @@ Grid
 box-sizing: border-box 
 }
 body {
-background-color: #0d080e /*5E5E5E*/;
-background-image: url("img/sunset.jpeg");
+background-color: #0f0f0f /*5E5E5E*/;
+background-image: url("img/moon.jpeg");
 background-repeat: no-repeat;
 background-size:100% auto;
 background-position: top;
